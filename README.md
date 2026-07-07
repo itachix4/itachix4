@@ -1,11 +1,11 @@
 <!-- ============================ HEADER / ANIMATED BANNER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Parth%20Parwani&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Freelance%20Web%20Developer%20%C2%B7%20UI%2FUX%20%C2%B7%20Automation%20%26%20AI&descAlignY=56&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Parth%20Parwani&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Freelance%20Web%20Developer%20%C2%B7%20UI%2FUX%20%C2%B7%20Automation%20%26%20AI&descAlignY=56&descSize=18&_cb=2" width="100%" alt="header" />
 
 <!-- ============================ ANIMATED TYPING ============================ -->
 <a href="https://github.com/itachix4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&height=55&lines=Hey+there%2C+I'm+Parth+%F0%9F%91%8B;I+build+cool%2C+animated+web+experiences;Next.js+%C3%97+React+%C3%97+Tailwind+%C3%97+Motion;UI%2FUX+%C2%B7+Automation+%C2%B7+AI+tinkerer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&height=55&lines=Hey+there%2C+I'm+Parth+%F0%9F%91%8B;I+build+cool%2C+animated+web+experiences;Next.js+%C3%97+React+%C3%97+Tailwind+%C3%97+Motion;UI%2FUX+%C2%B7+Automation+%C2%B7+AI+tinkerer+%F0%9F%A4%96&_cb=2" alt="Typing SVG" />
 </a>
 
 <!-- ============================ TOP BADGES ============================ -->
@@ -81,35 +81,12 @@ const parth = {
 
 <br/>
 
-<!-- ============================ GITHUB STATS ============================ -->
-## 📊 GitHub Stats
+<!-- ============================ GITHUB ACTIVITY ============================ -->
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=itachix4&theme=tokyonight&hide_border=true&background=1A1B27&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=A0A0A0" alt="streak" />
-
-</div>
-
-<!--
-  ⚠️  The github-readme-stats service (stats card + top languages) is
-  currently PAUSED on its public host, so these images are commented out
-  to avoid broken images. Un-comment the block below once the service is
-  back up (check https://github.com/anuraghazra/github-readme-stats):
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itachix4&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22d3ee&icon_color=8b5cf6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachix4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22d3ee" alt="top langs" />
-</div>
--->
-
-<br/>
-
-<!-- ============================ ACTIVITY GRAPH ============================ -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itachix4&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=22d3ee&line=8b5cf6&point=ffffff&area=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itachix4&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=22d3ee&line=8b5cf6&point=ffffff&area=true&_cb=2" width="100%" alt="activity graph" />
 
 </div>
 
@@ -123,6 +100,19 @@ const parth = {
 </picture>
 
 </div>
+
+<!--
+  ⚠️  NOTE: The github-readme-stats service (numeric stats card + top languages)
+  is currently PAUSED on its public host, and the streak-stats card is too slow
+  for GitHub's image proxy (it times out). They're left out to avoid broken images.
+  When github-readme-stats is back up (https://github.com/anuraghazra/github-readme-stats)
+  you can un-comment the block below:
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itachix4&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22d3ee&icon_color=8b5cf6" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachix4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22d3ee" alt="top langs" />
+</div>
+-->
 
 <br/>
 
@@ -195,8 +185,8 @@ Experiments in AI + Zapier-style automation: email triggers, sheet syncs, alerts
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&height=45&lines=Thanks+for+stopping+by!+%F0%9F%92%9C;Let's+build+something+cool+together+%F0%9F%9A%80" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&height=45&lines=Thanks+for+stopping+by!+%F0%9F%92%9C;Let's+build+something+cool+together+%F0%9F%9A%80&_cb=2" alt="footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&_cb=2" width="100%" alt="footer" />
 
 </div>
